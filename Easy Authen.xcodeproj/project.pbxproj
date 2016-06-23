@@ -14,6 +14,7 @@
 		C8E7F5DA1D1BB9FE00013134 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C8E7F5D81D1BB9FE00013134 /* LaunchScreen.storyboard */; };
 		C8E7F5E51D1BB9FE00013134 /* Easy_AuthenTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8E7F5E41D1BB9FE00013134 /* Easy_AuthenTests.swift */; };
 		C8E7F5F01D1BB9FE00013134 /* Easy_AuthenUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8E7F5EF1D1BB9FE00013134 /* Easy_AuthenUITests.swift */; };
+		C8E7F5FE1D1BC42800013134 /* wall1.png in Resources */ = {isa = PBXBuildFile; fileRef = C8E7F5FD1D1BC42800013134 /* wall1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		C8E7F5EB1D1BB9FE00013134 /* Easy AuthenUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Easy AuthenUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C8E7F5EF1D1BB9FE00013134 /* Easy_AuthenUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_AuthenUITests.swift; sourceTree = "<group>"; };
 		C8E7F5F11D1BB9FE00013134 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C8E7F5FD1D1BC42800013134 /* wall1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = wall1.png; path = ../../../Desktop/Resource/Background/wall1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				C8E7F5CF1D1BB9FE00013134 /* AppDelegate.swift */,
+				C8E7F5FD1D1BC42800013134 /* wall1.png */,
 				C8E7F5D11D1BB9FE00013134 /* ViewController.swift */,
 				C8E7F5D31D1BB9FE00013134 /* Main.storyboard */,
 				C8E7F5D61D1BB9FE00013134 /* Assets.xcassets */,
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C8E7F5DA1D1BB9FE00013134 /* LaunchScreen.storyboard in Resources */,
+				C8E7F5FE1D1BC42800013134 /* wall1.png in Resources */,
 				C8E7F5D71D1BB9FE00013134 /* Assets.xcassets in Resources */,
 				C8E7F5D51D1BB9FE00013134 /* Main.storyboard in Resources */,
 			);
