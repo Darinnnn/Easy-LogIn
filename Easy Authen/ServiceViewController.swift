@@ -50,6 +50,7 @@ class ServiceViewController: UIViewController {
         
         myIndex = 0
             
+            
         }
         
         let intAnswer = Int(strAnswer!)
